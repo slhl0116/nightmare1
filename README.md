@@ -15,13 +15,13 @@
                 <div id='nightmarealbum' class='albumimg'></div>
                 <div class='mp3'>
                     <p class='song'>1. Welcome to Dream(Intro)</p><br>
-                    <audio id="audio" src="Welcome to Dream Intro.mp3" controls autoplay></audio><br><br>
+                    <audio id="audio" src="Welcome to Dream Intro.mp3" controls></audio><br><br>
                     <p class='song'>2. Chase me *title</p><br>
-                    <audio id="audio" src="Chase Me.mp3" controls autoplay></audio><br><br>
+                    <audio id="audio" src="Chase Me.mp3" controls></audio><br><br>
                     <p class='song'>3. Emotion</p><br>
-                    <audio id="audio" src="Emotion 소원 하나.mp3" controls autoplay></audio><br><br>
+                    <audio id="audio" src="Emotion 소원 하나.mp3" controlsy></audio><br><br>
                     <p class='song'>4. chase me (Inst.)</p><br>
-                    <audio id="audio" src="Chase Me Inst.mp3" controls autoplay></audio><br><br>
+                    <audio id="audio" src="Chase Me Inst.mp3" controls></audio><br><br>
                 </div>
             </div>
         </div>
